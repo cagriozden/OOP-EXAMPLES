@@ -1,0 +1,14 @@
+C:\Users\Çağrı Özden\source\repos\ConstAndReadOnly\ConstAndReadOnly\bin\Debug\net8.0\ConstAndReadOnly.exe
+C:\Users\Çağrı Özden\source\repos\ConstAndReadOnly\ConstAndReadOnly\bin\Debug\net8.0\ConstAndReadOnly.deps.json
+C:\Users\Çağrı Özden\source\repos\ConstAndReadOnly\ConstAndReadOnly\bin\Debug\net8.0\ConstAndReadOnly.runtimeconfig.json
+C:\Users\Çağrı Özden\source\repos\ConstAndReadOnly\ConstAndReadOnly\bin\Debug\net8.0\ConstAndReadOnly.dll
+C:\Users\Çağrı Özden\source\repos\ConstAndReadOnly\ConstAndReadOnly\bin\Debug\net8.0\ConstAndReadOnly.pdb
+C:\Users\Çağrı Özden\source\repos\ConstAndReadOnly\ConstAndReadOnly\obj\Debug\net8.0\ConstAndReadOnly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Çağrı Özden\source\repos\ConstAndReadOnly\ConstAndReadOnly\obj\Debug\net8.0\ConstAndReadOnly.AssemblyInfoInputs.cache
+C:\Users\Çağrı Özden\source\repos\ConstAndReadOnly\ConstAndReadOnly\obj\Debug\net8.0\ConstAndReadOnly.AssemblyInfo.cs
+C:\Users\Çağrı Özden\source\repos\ConstAndReadOnly\ConstAndReadOnly\obj\Debug\net8.0\ConstAndReadOnly.csproj.CoreCompileInputs.cache
+C:\Users\Çağrı Özden\source\repos\ConstAndReadOnly\ConstAndReadOnly\obj\Debug\net8.0\ConstAndReadOnly.dll
+C:\Users\Çağrı Özden\source\repos\ConstAndReadOnly\ConstAndReadOnly\obj\Debug\net8.0\refint\ConstAndReadOnly.dll
+C:\Users\Çağrı Özden\source\repos\ConstAndReadOnly\ConstAndReadOnly\obj\Debug\net8.0\ConstAndReadOnly.pdb
+C:\Users\Çağrı Özden\source\repos\ConstAndReadOnly\ConstAndReadOnly\obj\Debug\net8.0\ConstAndReadOnly.genruntimeconfig.cache
+C:\Users\Çağrı Özden\source\repos\ConstAndReadOnly\ConstAndReadOnly\obj\Debug\net8.0\ref\ConstAndReadOnly.dll
