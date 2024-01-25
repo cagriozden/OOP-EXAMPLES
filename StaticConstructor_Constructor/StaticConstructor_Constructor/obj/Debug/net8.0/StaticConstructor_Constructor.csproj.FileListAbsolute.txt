@@ -1,0 +1,14 @@
+C:\Users\Çağrı Özden\source\repos\StaticConstructor_Constructor\StaticConstructor_Constructor\bin\Debug\net8.0\StaticConstructor_Constructor.exe
+C:\Users\Çağrı Özden\source\repos\StaticConstructor_Constructor\StaticConstructor_Constructor\bin\Debug\net8.0\StaticConstructor_Constructor.deps.json
+C:\Users\Çağrı Özden\source\repos\StaticConstructor_Constructor\StaticConstructor_Constructor\bin\Debug\net8.0\StaticConstructor_Constructor.runtimeconfig.json
+C:\Users\Çağrı Özden\source\repos\StaticConstructor_Constructor\StaticConstructor_Constructor\bin\Debug\net8.0\StaticConstructor_Constructor.dll
+C:\Users\Çağrı Özden\source\repos\StaticConstructor_Constructor\StaticConstructor_Constructor\bin\Debug\net8.0\StaticConstructor_Constructor.pdb
+C:\Users\Çağrı Özden\source\repos\StaticConstructor_Constructor\StaticConstructor_Constructor\obj\Debug\net8.0\StaticConstructor_Constructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Çağrı Özden\source\repos\StaticConstructor_Constructor\StaticConstructor_Constructor\obj\Debug\net8.0\StaticConstructor_Constructor.AssemblyInfoInputs.cache
+C:\Users\Çağrı Özden\source\repos\StaticConstructor_Constructor\StaticConstructor_Constructor\obj\Debug\net8.0\StaticConstructor_Constructor.AssemblyInfo.cs
+C:\Users\Çağrı Özden\source\repos\StaticConstructor_Constructor\StaticConstructor_Constructor\obj\Debug\net8.0\StaticConstructor_Constructor.csproj.CoreCompileInputs.cache
+C:\Users\Çağrı Özden\source\repos\StaticConstructor_Constructor\StaticConstructor_Constructor\obj\Debug\net8.0\StaticConstructor_Constructor.dll
+C:\Users\Çağrı Özden\source\repos\StaticConstructor_Constructor\StaticConstructor_Constructor\obj\Debug\net8.0\refint\StaticConstructor_Constructor.dll
+C:\Users\Çağrı Özden\source\repos\StaticConstructor_Constructor\StaticConstructor_Constructor\obj\Debug\net8.0\StaticConstructor_Constructor.pdb
+C:\Users\Çağrı Özden\source\repos\StaticConstructor_Constructor\StaticConstructor_Constructor\obj\Debug\net8.0\StaticConstructor_Constructor.genruntimeconfig.cache
+C:\Users\Çağrı Özden\source\repos\StaticConstructor_Constructor\StaticConstructor_Constructor\obj\Debug\net8.0\ref\StaticConstructor_Constructor.dll
