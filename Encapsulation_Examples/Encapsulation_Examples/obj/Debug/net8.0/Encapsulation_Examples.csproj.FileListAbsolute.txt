@@ -1,0 +1,14 @@
+C:\Users\Çağrı Özden\source\repos\Encapsulation_Examples\Encapsulation_Examples\bin\Debug\net8.0\Encapsulation_Examples.exe
+C:\Users\Çağrı Özden\source\repos\Encapsulation_Examples\Encapsulation_Examples\bin\Debug\net8.0\Encapsulation_Examples.deps.json
+C:\Users\Çağrı Özden\source\repos\Encapsulation_Examples\Encapsulation_Examples\bin\Debug\net8.0\Encapsulation_Examples.runtimeconfig.json
+C:\Users\Çağrı Özden\source\repos\Encapsulation_Examples\Encapsulation_Examples\bin\Debug\net8.0\Encapsulation_Examples.dll
+C:\Users\Çağrı Özden\source\repos\Encapsulation_Examples\Encapsulation_Examples\bin\Debug\net8.0\Encapsulation_Examples.pdb
+C:\Users\Çağrı Özden\source\repos\Encapsulation_Examples\Encapsulation_Examples\obj\Debug\net8.0\Encapsulation_Examples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Çağrı Özden\source\repos\Encapsulation_Examples\Encapsulation_Examples\obj\Debug\net8.0\Encapsulation_Examples.AssemblyInfoInputs.cache
+C:\Users\Çağrı Özden\source\repos\Encapsulation_Examples\Encapsulation_Examples\obj\Debug\net8.0\Encapsulation_Examples.AssemblyInfo.cs
+C:\Users\Çağrı Özden\source\repos\Encapsulation_Examples\Encapsulation_Examples\obj\Debug\net8.0\Encapsulation_Examples.csproj.CoreCompileInputs.cache
+C:\Users\Çağrı Özden\source\repos\Encapsulation_Examples\Encapsulation_Examples\obj\Debug\net8.0\Encapsulation_Examples.dll
+C:\Users\Çağrı Özden\source\repos\Encapsulation_Examples\Encapsulation_Examples\obj\Debug\net8.0\refint\Encapsulation_Examples.dll
+C:\Users\Çağrı Özden\source\repos\Encapsulation_Examples\Encapsulation_Examples\obj\Debug\net8.0\Encapsulation_Examples.pdb
+C:\Users\Çağrı Özden\source\repos\Encapsulation_Examples\Encapsulation_Examples\obj\Debug\net8.0\Encapsulation_Examples.genruntimeconfig.cache
+C:\Users\Çağrı Özden\source\repos\Encapsulation_Examples\Encapsulation_Examples\obj\Debug\net8.0\ref\Encapsulation_Examples.dll
