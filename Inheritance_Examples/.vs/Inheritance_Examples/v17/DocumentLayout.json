@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u00C7a\u011Fr\u0131 \u00D6zden\\source\\repos\\Inheritance_Examples\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5E3B9FF-6C8C-4E58-B62F-6079299E975C}|Inheritance_Examples\\Inheritance_Examples.csproj|c:\\users\\\u00E7a\u011Fr\u0131 \u00F6zden\\source\\repos\\inheritance_examples\\inheritance_examples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5E3B9FF-6C8C-4E58-B62F-6079299E975C}|Inheritance_Examples\\Inheritance_Examples.csproj|solutionrelative:inheritance_examples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u00C7a\u011Fr\u0131 \u00D6zden\\source\\repos\\Inheritance_Examples\\Inheritance_Examples\\Program.cs",
+              "RelativeDocumentMoniker": "Inheritance_Examples\\Program.cs",
+              "ToolTip": "C:\\Users\\\u00C7a\u011Fr\u0131 \u00D6zden\\source\\repos\\Inheritance_Examples\\Inheritance_Examples\\Program.cs",
+              "RelativeToolTip": "Inheritance_Examples\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-16T08:56:11.247Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
